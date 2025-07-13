@@ -7,7 +7,7 @@
 ---
 
 ## 📫 Get in touch
--- 📧 stoshasen2004@gmail.com
+- 📧 stoshasen2004@gmail.com
 - [LinkedIn](www.linkedin.com/in/stosha-sen-57603b25b)  
 - 🥇 [CodeChef](https://www.codechef.com/users/stosha_26) — Bronze badge, 50+ problems solved
 
