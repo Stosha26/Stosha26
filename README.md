@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stosha Sen</h1>
+<h1 align="center">Hi 👋, I'm Stosha </h1>
 <h3 align="center">Frontend Developer | Electrical Engineering Student | Bronze Badge @ CodeChef</h3>
 
 ---
@@ -8,8 +8,11 @@
   <a href="https://www.linkedin.com/in/stosha-sen-57603b25b/" target="blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <a href="mailto:stoshasen2004@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/120px-Mail_%28iOS%29.svg.png" alt="Email" width="40" height="40"/>
+  </a>
   <a href="https://www.codechef.com/users/stosha_26" target="blank">
-    <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="100" height="100"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
   </a>
 </p>
 
@@ -37,13 +40,13 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stosha26&layout=compact&theme=default" alt="Top Langs"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stosha26&show_icons=true&locale=en" alt="GitHub stats"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stosha26&" alt="GitHub streak"/>
 </p>
 
 ---
