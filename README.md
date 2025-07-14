@@ -3,20 +3,6 @@
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/stosha-sen-57603b25b/" target="blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:stoshasen2004@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/120px-Mail_%28iOS%29.svg.png" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/stosha_26" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
-  </a>
-</p>
-
----
 
 ### ✨ About Me:
 - 🎓 Final year B.Tech in Electrical Engineering
@@ -24,6 +10,18 @@
 - 🌱 Currently learning Java & Data Structures
 - 🥇 Bronze badge on CodeChef, solved 50+ problems
 - 🚀 Building **NeuroFocus** — a focus tool for ADHD students
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/stosha-sen-57603b25b/" target="blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/stosha_26" target="blank">
+   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
@@ -39,15 +37,16 @@
 ---
 
 ### 📊 GitHub Stats:
+
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stosha26&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stosha26&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stosha26&layout=compact&theme=default" alt="Top Langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stosha26&" alt="GitHub Streak"/>
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stosha26&show_icons=true&locale=en" alt="GitHub stats"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stosha26&" alt="GitHub streak"/>
-</p>
+
 
 ---
 
