@@ -6,7 +6,7 @@
 
 ### ✨ About Me:
 - 🎓 Final year B.Tech in Electrical Engineering
-- 💻 Frontend Developer: HTML, CSS, JavaScript, React
+- 💻 Frontend Developer: HTML, CSS, JavaScript
 - 🌱 Currently learning Java & Data Structures
 - 🥇 Bronze badge on CodeChef, solved 50+ problems
 - 🚀 Building **NeuroFocus** — a focus tool for ADHD students
