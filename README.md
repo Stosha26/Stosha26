@@ -19,7 +19,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.codechef.com/users/stosha_26" target="blank">
-   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
+   <img src="https://img.icons8.com/ios-filled/50/5B4638/codechef.png" alt="CodeChef" width="40" height="40"/>
   </a>
 </p>
 
