@@ -38,13 +38,19 @@
 
 ### 📊 GitHub Stats:
 
-<div style="display: flex; gap: 20 px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stosha26&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Stosha26&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stosha26&layout=compact&theme=default" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Stosha26&show_icons=true&locale=en" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stosha26&" alt="GitHub Streak"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stosha26&theme=default" alt="GitHub Streak"/>
 </p>
 
 
